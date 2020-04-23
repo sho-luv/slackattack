@@ -5,11 +5,11 @@
   </a>
 </p>
 
-# slackTokenCheck
+# slackattack
 
 ### Usage:
 ```
-usage: slackTokenCheck.py [-h] token
+usage: slackattack.py [-h] token
 
 This program makes web requests.
 
@@ -24,7 +24,7 @@ optional arguments:
 
 ### Usage Example:
 ```
-python ./slackTokenCheck.py xoxp-xxxxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxx...
+python ./slackattack.py xoxp-xxxxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxx...
 
 checking xoxp-xxxxxxxxxxxx-xxxxxxxxxxxx-xxxxxxxxxxxx...
 
